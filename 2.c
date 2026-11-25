@@ -72,6 +72,7 @@ int main()
             {
                 printf("%s" , temp);   
             }
+            printf("\n");
             break;
         case 4:
             break;
