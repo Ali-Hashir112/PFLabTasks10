@@ -63,14 +63,14 @@ int main()
                     break;
                 }
             }
+            printf("Record not found\n");
             break;
         case 3:
             rewind(file);
 
             while(fgets(temp , sizeof(temp) , file) != NULL)
             {
-                printf("%s" , temp);
-                break;   
+                printf("%s" , temp);   
             }
             break;
         case 4:
