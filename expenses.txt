@@ -1,0 +1,3 @@
+Lunch : Rs. 200
+Commute : Rs. 500
+Gift : Rs. 800
